@@ -1,0 +1,34 @@
+Read coordinates from input.csv:
+    0,0
+    1,2
+    2,4
+    3,6
+    4,8
+
+Generate list of points
+Keep track of distance between those points and the entered points
+Guess the equation that would generate those points:
+    Try y=x:
+        Add or subtract
+        Multiply or divide
+    Try x^2:
+        Different exponents
+        Add or subtract
+        Multiply or divide
+    Try 1/x:
+        Different numerator
+        Different denominator
+        Add or subtract
+        Multiply or divide
+    TODO:
+        x^x
+        x!
+        log(x)
+        ln(x)
+        sin(x)
+        cos(x)
+        tan(x)
+
+
+Extra:
+    If all distances are equal, add or subtract
